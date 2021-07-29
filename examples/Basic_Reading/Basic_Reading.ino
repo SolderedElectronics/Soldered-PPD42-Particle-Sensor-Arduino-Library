@@ -7,7 +7,7 @@
  *  Connect the sensor as shown here:
  *      https://create.arduino.cc/projecthub/infoelectorials/project-010-arduino-grove-dust-sensor-ppd42ns-project-ab5f5e
  *
- *  For more info visit https://solde.red/[_sku]
+ *  For more info visit https://solde.red/109006
  *
  * @authors     Zvonimir Haramustek for soldered.com
  ***************************************************/
