@@ -5,7 +5,7 @@
 
 | ![PPD42 Sensor Board](https://upload.wikimedia.org/wikipedia/commons/8/8f/Example_image.svg) |
 | :---------------------------------------------------------------------------------------------: |
-| [PPD42 Sensor Board](https://www.solde.red/[_sku])                                                            |
+| [PPD42 Sensor Board](https://www.solde.red/109006)                                                            |
 
 PPD42NS Sensor Arduino Library by Soldered.
 This sensor can detect particles in the air.
