@@ -1,4 +1,5 @@
 var searchData=
 [
-  ['initializenative_29',['initializeNative',['../class_sensor.html#adb537c76173019fddf84b2d89e6c6559',1,'Sensor::initializeNative()'],['../class_easy_c.html#a48c8aa55d48ef0cc11047cab0735c998',1,'EasyC::initializeNative()']]]
+  ['getconcentration_38',['getConcentration',['../class_p_p_d42.html#ad65d882c64a4aa190db0c7351f0819d9',1,'PPD42']]],
+  ['getlastconcentration_39',['getLastConcentration',['../class_p_p_d42.html#ac32ffce3a9beaeb24e3c593c06474d70',1,'PPD42']]]
 ];

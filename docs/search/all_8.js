@@ -1,6 +1,8 @@
 var searchData=
 [
-  ['readdata_14',['readData',['../class_easy_c.html#a9a3d39be50b348768bc4b5dea3dae01a',1,'EasyC']]],
-  ['readme_2emd_15',['README.md',['../_r_e_a_d_m_e_8md.html',1,'']]],
-  ['readregister_16',['readRegister',['../class_easy_c.html#a45bd6c915c1fa0998e273f69ee2d2376',1,'EasyC']]]
+  ['pin_16',['pin',['../class_p_p_d42.html#ae7098dbce278140ad8c9136b98e6f96b',1,'PPD42']]],
+  ['ppd42_17',['PPD42',['../class_p_p_d42.html',1,'PPD42'],['../class_p_p_d42.html#adb1c6a9054627d88839c09a9643b0c62',1,'PPD42::PPD42()']]],
+  ['ppd42_20sensor_20board_20arduino_20library_18',['PPD42 Sensor Board Arduino library',['../index.html',1,'']]],
+  ['ppd42_2dsoldered_2ecpp_19',['PPD42-SOLDERED.cpp',['../_p_p_d42-_s_o_l_d_e_r_e_d_8cpp.html',1,'']]],
+  ['ppd42_2dsoldered_2eh_20',['PPD42-SOLDERED.h',['../_p_p_d42-_s_o_l_d_e_r_e_d_8h.html',1,'']]]
 ];
