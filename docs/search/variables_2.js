@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['defaultaddress_48',['defaultAddress',['../class_easy_c.html#a9052ae674b3553bbb19283278299f395',1,'EasyC']]],
-  ['duration_49',['duration',['../class_p_p_d42.html#ac91cb1fdb3b4adedcf8b8a55568348d0',1,'PPD42']]]
+  ['lastconcentration_26',['lastConcentration',['../class_p_p_d42.html#abed502d01c83a8e0d7e5f9713b3a7a77',1,'PPD42']]],
+  ['lowpulseoccupancy_27',['lowpulseoccupancy',['../class_p_p_d42.html#a1449927e05b0208bc324d048ba9d3e58',1,'PPD42']]]
 ];

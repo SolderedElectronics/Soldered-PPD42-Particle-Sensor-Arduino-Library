@@ -1,5 +1,5 @@
 var searchData=
 [
-  ['getconcentration_10',['getConcentration',['../class_p_p_d42.html#ad65d882c64a4aa190db0c7351f0819d9',1,'PPD42']]],
-  ['getlastconcentration_11',['getLastConcentration',['../class_p_p_d42.html#ac32ffce3a9beaeb24e3c593c06474d70',1,'PPD42']]]
+  ['lastconcentration_5',['lastConcentration',['../class_p_p_d42.html#abed502d01c83a8e0d7e5f9713b3a7a77',1,'PPD42']]],
+  ['lowpulseoccupancy_6',['lowpulseoccupancy',['../class_p_p_d42.html#a1449927e05b0208bc324d048ba9d3e58',1,'PPD42']]]
 ];
