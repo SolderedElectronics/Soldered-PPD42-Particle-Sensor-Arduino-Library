@@ -6,11 +6,15 @@
 # Datatypes (KEYWORD1)
 ##################################################
 
+PPD42 KEYWORD1
+
 ##################################################
 # Methods and Functions (KEYWORD2)
 ##################################################
 
 begin	KEYWORD2
+getConcentration KEYWORD2
+getLastConcentration KEYWORD2
 
 ##################################################
 # Constants (LITERAL1)
