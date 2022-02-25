@@ -7,7 +7,7 @@
  *  Connect the sensor as shown here:
  *      https://create.arduino.cc/projecthub/infoelectorials/project-010-arduino-grove-dust-sensor-ppd42ns-project-ab5f5e
  *
- *  For more info visit https://solde.red/109006
+ *  For more info visit https://solde.red/SKU
  *
  * @authors     Zvonimir Haramustek for soldered.com
  ***************************************************/
@@ -20,15 +20,14 @@ PPD42 ppd(PPD42_PIN);
 
 void setup()
 {
-    // Initiate the sensor and serial
-    Serial.begin(115200);
-    ppd.begin();
+    Serial.begin(115200); //Start serial communication with PC
+    ppd.begin();    //Initialize sensor
 }
 
 void loop()
 {
-    // Read the sensor value
-    Serial.print("Concentration: ");
+    
+    Serial.print("Concentration: "); // Read the sensor value
     Serial.println(ppd.getConcentration()); // Can take up to 30s
 
     Serial.print("Last concentration: "); // Instant
