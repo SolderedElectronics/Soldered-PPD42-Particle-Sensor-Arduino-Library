@@ -21,7 +21,7 @@ You can find hardware design for this board in PPD42 Sensor Board hardware repos
 
 ### Documentation
 
-Access Arduino library documentation [here](https://e-radionicacom.github.io/Soldered-PPD42-Particle-Sensor-Arduino-Library/).
+Access Arduino library documentation [here](https://solderedelectronics.github.io/Soldered-PPD42-Particle-Sensor-Arduino-Library/).
 
 - Tutorial for using the PPD42 Sensor Board board
 - Installing an Arduino library
